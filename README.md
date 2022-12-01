@@ -1,8 +1,7 @@
 <img align="right" src="https://internship.thesparksfoundation.info/assests/img/logo.png" width="200">
 
 # :star: Sparks-Foundation-Internship-2022
-![](https://img.shields.io/badge/Author-Rohit%20Rannavre-red?style=for-the-badge)
-![](https://img.shields.io/badge/Tools-Python,%20Pandas,%20Numpy,%20Matplotlib,%20seaborn,%20sklearn-990098?style=for-the-badge)
+![](https://img.shields.io/badge/Author-Rohit%20Rannavre-red?style=for-the-badge) ![](https://img.shields.io/badge/Tools-Python,%20Pandas,%20Numpy,%20Matplotlib,%20seaborn,%20sklearn-990098?style=for-the-badge)
 
 This repository contains the tasks I did as an intern with [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).
 - **Internship Function**: Data Science and Business Analytics
