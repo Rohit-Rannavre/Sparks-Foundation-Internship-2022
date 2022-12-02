@@ -13,20 +13,20 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 ![](https://img.shields.io/badge/Task%201-Prediction%20Using%20Supervised%20Machine%20Learning%20%5BLevel%3A%20Beginner%5D-green?style=for-the-badge)
 > **Problem Statement:** Predict the percentage of a student based on the number of study hours
 
-> Dataset Used
+> [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%201/dataset_1.csv)
 
-> My Solution
+> [Solution](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%201/task_1_solution.ipynb)
 
-> YouTube Link
+> YouTube
 
 ***
 
 ![](https://img.shields.io/badge/Task%202-Prediction%20Using%20Unsupervised%20Machine%20Learning%20%5BLevel%3A%20Beginner%5D-yellow?style=for-the-badge)
 > **Problem Statement:** For the 'iris' dataset, predict the optimum number of clusters and represent it visually 
 
-> Dataset Used
+> Dataset
 
-> My Solution
+> Solution
 
 > YouTube Link
 
