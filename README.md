@@ -33,7 +33,7 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 ***
 
 ![](https://img.shields.io/badge/Task%203-Exploratory%20Data%20Analysis%20--%20Retail%20%5BLevel%3A%20Beginner%5D%5D-orange?style=for-the-badge)
-> **Problem Statement:** Perform EDA on the given SampleSuperstore dataset 
+> **Problem Statement:** Perform EDA on the given 'SampleSuperstore' dataset to find out the areas where you as a business manager can make more profit  
 
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%203/dataset_3.csv)
 
