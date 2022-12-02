@@ -26,10 +26,12 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%202/dataset_2.csv)
 
-> Solution
+> [Solution](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%202/task_2_solution.ipynb)
 
 > YouTube
 
+***
+
 <br>
 
-***Don't forget to give this repo a :star:***
+### ***Don't forget to give this repo a :star:***
