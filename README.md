@@ -15,7 +15,7 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%201/dataset_1.csv)
 
-> [Solution](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%201/task_1_solution.ipynb)
+> [Solution](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%201/task_1_supervised_ml.ipynb)
 
 > YouTube
 
@@ -26,7 +26,7 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%202/dataset_2.csv)
 
-> [Solution](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%202/task_2_solution.ipynb)
+> [Solution](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%202/task_2_unsupervised_ml.ipynb)
 
 > YouTube
 
@@ -37,7 +37,7 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%203/dataset_3.csv)
 
-> Solution
+> [Solution](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%203/task_3_EDA_retail.ipynb)
 
 > YouTube
 
