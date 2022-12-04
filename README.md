@@ -55,7 +55,7 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 ***
 
 ![](https://img.shields.io/badge/Task%205-Exploratory%20Data%20Analysis%20--%20Sports%20%5BLevel%3A%20Advanced%5D-eb3471?style=for-the-badge)
-> **Problem Statement:** Perform EDA on the given 'IPL' dataset as a sports analyst to find out the most successful teams, players and factors contributing win or lose of a team
+> **Problem Statement:** Perform EDA on the given 'IPL' dataset as a sports analyst to find out the most successful teams, players and factors contributing to win or lose of a team
 
 > Dataset
 
