@@ -57,7 +57,7 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 ![](https://img.shields.io/badge/Task%205-Prediction%20Using%20the%20Decision%20Tree%20Algorithm%20%5BLevel%3A%20Intermediate%5D-orange?style=for-the-badge)
 > **Problem Statement:** Build the Decision Tree Classifier and visualize it graphically
 
-> [Dataset]()
+> [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%205/dataset_5.csv)
 
 > [Python Code]()
 
@@ -68,7 +68,7 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 ![](https://img.shields.io/badge/Task%206-Exploratory%20Data%20Analysis%20--%20Sports%20%5BLevel%3A%20Advanced%5D-eb3471?style=for-the-badge)
 > **Problem Statement:** Perform EDA on the given 'IPL' dataset as a sports analyst to find out the most successful teams, players and factors contributing to win or lose of a team
 
-> Dataset
+> [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/tree/main/Task%206)
 
 > Python Code
 
