@@ -43,7 +43,7 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 
 ***
 
-![](https://img.shields.io/badge/Task%204-Exploratory%20Data%20Analysis%20--%20Retail%20%5BLevel%3A%20Intermediate%5D-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Task%204-Exploratory%20Data%20Analysis%20--%20Terrorism%20%5BLevel%3A%20Intermediate%5D-orange?style=for-the-badge)
 > **Problem Statement:** Perform EDA on the given 'GlobalTerrorism' dataset as a security/defence analyst to find out the hot zone of terrorism
 
 > [Dataset](https://drive.google.com/file/d/1MQHuEl7JOfa4GQsmgK0TISEKEafxkpqb/view)
@@ -54,7 +54,18 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 
 ***
 
-![](https://img.shields.io/badge/Task%205-Exploratory%20Data%20Analysis%20--%20Sports%20%5BLevel%3A%20Advanced%5D-eb3471?style=for-the-badge)
+![](https://img.shields.io/badge/Task%205-Prediction%20Using%20the%20Decision%20Tree%20Algorithm%20%5BLevel%3A%20Intermediate%5D-orange?style=for-the-badge)
+> **Problem Statement:** Build the Decision Tree Classifier and visualize it graphically
+
+> [Dataset]()
+
+> [Python Code]()
+
+> YouTube
+
+***
+
+![](https://img.shields.io/badge/Task%206-Exploratory%20Data%20Analysis%20--%20Sports%20%5BLevel%3A%20Advanced%5D-eb3471?style=for-the-badge)
 > **Problem Statement:** Perform EDA on the given 'IPL' dataset as a sports analyst to find out the most successful teams, players and factors contributing to win or lose of a team
 
 > Dataset
