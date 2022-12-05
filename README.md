@@ -59,7 +59,7 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%205/dataset_5.csv)
 
-> [Python Code]()
+> Python Code
 
 > YouTube
 
@@ -70,7 +70,7 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/tree/main/Task%206)
 
-> Python Code
+> [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%206/task_6_EDA_sports.ipynb)
 
 > YouTube
 
