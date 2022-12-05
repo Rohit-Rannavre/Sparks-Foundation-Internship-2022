@@ -60,7 +60,7 @@ This repository contains the tasks I did as an intern with [The Sparks Foundatio
 
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%205/dataset_5.csv)
 
-> Python Code
+> [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%205/task_5_decision_tree.ipynb)
 
 > YouTube
 
