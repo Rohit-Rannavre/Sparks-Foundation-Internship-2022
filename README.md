@@ -1,6 +1,6 @@
 <img align="right" src="https://internship.thesparksfoundation.info/assests/img/logo.png" width="200">
 
-# :star: Sparks-Foundation-Internship-2022
+# :star: Sparks Foundation Internship [2022]
 ![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20seaborn%20|%20sklearn-990098?style=for-the-badge)
 
 This repository contains the projects I did as an intern with [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).
