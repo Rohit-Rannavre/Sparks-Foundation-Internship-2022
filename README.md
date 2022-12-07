@@ -8,8 +8,6 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 - **Internship Duration**: 1 Month [December, 2022]
 - **Internship Mode**: Virtual
 
-<br>
-
 ![](https://img.shields.io/badge/Task%201-Prediction%20Using%20Supervised%20Machine%20Learning%20%5BLevel%3A%20Beginner%5D-green?style=for-the-badge)
 > **Problem Statement:** Predict the percentage of a student based on the number of study hours
 
