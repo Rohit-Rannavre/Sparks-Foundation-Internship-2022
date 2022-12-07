@@ -21,7 +21,7 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 ***
 
-![](https://img.shields.io/badge/Task%202-Prediction%20Using%20Unsupervised%20Machine%20Learning%20%5BLevel%3A%20Beginner%5D-green?style=for-the-badge)
+![](https://img.shields.io/badge/Task%202-Prediction%20Using%20Unsupervised%20Machine%20Learning%20%5BLevel%3A%20Beginner%5D-54c7b9?style=for-the-badge)
 > **Problem Statement:** For the 'iris' dataset, predict the optimum number of clusters and represent it visually 
 
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%202/dataset_2.csv)
@@ -32,7 +32,7 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 ***
 
-![](https://img.shields.io/badge/Task%203-Exploratory%20Data%20Analysis%20--%20Retail%20%5BLevel%3A%20Beginner%5D-green?style=for-the-badge)
+![](https://img.shields.io/badge/Task%203-Exploratory%20Data%20Analysis%20--%20Retail%20%5BLevel%3A%20Beginner%5D-f22ce2?style=for-the-badge)
 > **Problem Statement:** Perform EDA on the given 'SampleSuperstore' dataset to find out the areas where you as a business manager can make more profit  
 
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%203/dataset_3.csv)
@@ -43,7 +43,7 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 ***
 
-![](https://img.shields.io/badge/Task%204-Exploratory%20Data%20Analysis%20--%20Terrorism%20%5BLevel%3A%20Intermediate%5D-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Task%204-Exploratory%20Data%20Analysis%20--%20Terrorism%20%5BLevel%3A%20Intermediate%5D-5b40f5?style=for-the-badge)
 > **Problem Statement:** Perform EDA on the given 'GlobalTerrorism' dataset as a security/defence analyst to find out the hot zone of terrorism
 
 > [Dataset](https://drive.google.com/file/d/1MQHuEl7JOfa4GQsmgK0TISEKEafxkpqb/view)
