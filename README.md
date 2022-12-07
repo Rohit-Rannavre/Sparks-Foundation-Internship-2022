@@ -8,7 +8,7 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 - **Internship Duration**: 1 Month [December, 2022]
 - **Internship Mode**: Virtual
 
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2FPhylorohitics)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&&url=https%3A%2F%2Ftwitter.com%2FPhylorohitics)
 
 
 ***
