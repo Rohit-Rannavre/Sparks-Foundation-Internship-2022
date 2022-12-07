@@ -8,8 +8,6 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 - **Internship Duration**: 1 Month [December, 2022]
 - **Internship Mode**: Virtual
 
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?url=https%3A%2F%2Ftwitter.com%2FPhylorohitics&style=for-the-badge&logo=Twitter&logoColor=white)
-
 ***
 
 ![](https://img.shields.io/badge/Task%201-Prediction%20Using%20Supervised%20Machine%20Learning%20%5BLevel%3A%20Beginner%5D-green?style=for-the-badge)
