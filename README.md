@@ -17,7 +17,7 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%201/task_1_supervised_ml.ipynb)
 
-> YouTube
+> [YouTube](https://youtu.be/RTedBgaF4yQ)
 
 ***
 
@@ -28,7 +28,7 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%202/task_2_unsupervised_ml.ipynb)
 
-> YouTube
+> [YouTube](https://youtu.be/aTe3RfTZwdg)
 
 ***
 
@@ -39,7 +39,7 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%203/task_3_EDA_retail.ipynb)
 
-> YouTube
+> [YouTube](https://youtu.be/fxSIf13zOno)
 
 ***
 
@@ -50,7 +50,7 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%204/task_4_EDA_terrorism.ipynb)
 
-> YouTube
+> [YouTube](https://youtu.be/jQN9oVtNLVo)
 
 ***
 
@@ -61,7 +61,7 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%205/task_5_decision_tree.ipynb)
 
-> YouTube
+> [YouTube](https://youtu.be/ZQl1rKWAYiE)
 
 ***
 
@@ -72,7 +72,7 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%206/task_6_EDA_sports.ipynb)
 
-> YouTube
+> [YouTube](https://youtu.be/FSioe-u-SbE)
 
 <br>
 
