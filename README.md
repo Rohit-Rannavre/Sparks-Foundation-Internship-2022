@@ -43,7 +43,7 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 ***
 
-![](https://img.shields.io/badge/Task%204-Exploratory%20Data%20Analysis%20--%20Terrorism%20%5BLevel%3A%20Intermediate%5D-ba990a?style=for-the-badge)
+![](https://img.shields.io/badge/Task%204-Exploratory%20Data%20Analysis%20--%20Global%20Terrorism%20%5BLevel%3A%20Intermediate%5D-ba990a?style=for-the-badge)
 > **Problem Statement:** Perform EDA on the given 'GlobalTerrorism' dataset as a security/defence analyst to find out the hot zone of terrorism
 
 > [Dataset](https://drive.google.com/file/d/1MQHuEl7JOfa4GQsmgK0TISEKEafxkpqb/view)
