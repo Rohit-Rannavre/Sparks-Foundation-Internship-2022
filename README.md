@@ -17,8 +17,6 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%201/task_1_supervised_ml.ipynb)
 
-> [YouTube](https://youtu.be/RTedBgaF4yQ)
-
 ***
 
 ![](https://img.shields.io/badge/Task%202-Prediction%20Using%20Unsupervised%20Machine%20Learning%20%5BLevel%3A%20Beginner%5D-54c7b9?style=for-the-badge)
@@ -27,8 +25,6 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%202/dataset_2.csv)
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%202/task_2_unsupervised_ml.ipynb)
-
-> [YouTube](https://youtu.be/aTe3RfTZwdg)
 
 ***
 
@@ -39,8 +35,6 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%203/task_3_EDA_retail.ipynb)
 
-> [YouTube](https://youtu.be/fxSIf13zOno)
-
 ***
 
 ![](https://img.shields.io/badge/Task%204-Exploratory%20Data%20Analysis%20--%20Global%20Terrorism%20%5BLevel%3A%20Intermediate%5D-ba990a?style=for-the-badge)
@@ -49,8 +43,6 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 > [Dataset](https://drive.google.com/file/d/1MQHuEl7JOfa4GQsmgK0TISEKEafxkpqb/view)
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%204/task_4_EDA_terrorism.ipynb)
-
-> [YouTube](https://youtu.be/jQN9oVtNLVo)
 
 ***
 
@@ -61,8 +53,6 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%205/task_5_decision_tree.ipynb)
 
-> [YouTube](https://youtu.be/ZQl1rKWAYiE)
-
 ***
 
 ![](https://img.shields.io/badge/Task%206-Exploratory%20Data%20Analysis%20--%20Sports%20%5BLevel%3A%20Advanced%5D-eb3471?style=for-the-badge)
@@ -71,8 +61,6 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/tree/main/Task%206)
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%206/task_6_EDA_sports.ipynb)
-
-> [YouTube](https://youtu.be/FSioe-u-SbE)
 
 <br>
 
