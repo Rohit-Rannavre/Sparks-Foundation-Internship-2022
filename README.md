@@ -1,6 +1,5 @@
 # :star: Sparks Foundation Internship [2022]
 ![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20seaborn%20|%20sklearn-990098?style=for-the-badge)
-<img align="right" src="https://internship.thesparksfoundation.info/assests/img/logo.png" width="200">
 
 This repository contains the projects I did as an intern with [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).
 - **Internship Function**: Data Science and Business Analytics
@@ -60,9 +59,3 @@ This repository contains the projects I did as an intern with [The Sparks Founda
 > [Dataset](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/tree/main/Task%206)
 
 > [Python Code](https://github.com/Rohit-Rannavre/Sparks-Foundation-Internship-2022/blob/main/Task%206/task_6_EDA_sports.ipynb)
-
-<br>
-
-### ***Let's connect:*** 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)  
